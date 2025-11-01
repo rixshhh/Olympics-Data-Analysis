@@ -3,6 +3,12 @@
 An interactive **Streamlit web application** that visualizes over 120 years of Olympic Games history — analyzing medals, athletes, countries, and sports performance trends.  
 Built with **Python**, **Pandas**, **Plotly**, **Seaborn**, and **Streamlit**.
 
+
+**Live Demo:** 
+* 🔗 [View Project on Render](https://olympics-data-analysis-zywx.onrender.com)
+
+* 🔗 [View Project on Streamlit](https://olympics-data-analysis-st.streamlit.app)
+
 ---
 
 ## 📊 Overview
